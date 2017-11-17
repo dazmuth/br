@@ -1,32 +1,23 @@
 
 * {
-  font-style: "Verdana";
+  font-family: Helvetica;
 
-  color: white;
   text-align: center;
-
-  background-color: black;
-
 }
 
 h1 {
-  font-weight: normal;
-    font-size: 50px;
+  font-weight: bold;
+    font-size: 70px;
+    color: black;
 }
 h2 {
-  font-weight: 300;
-  font-size: 42px;
-  font-style: "Verdana";
+  font-size: 32px;
+  font-weight: bold;
 }
-.download {
-  color: aquamarine;
-  font-size: 16px;
+.flatiron {
+  background-image: url("../images/the-flatiron-building.png");
 }
-p {
-  font-size: 21px;
-  color: Gray;
-}
-.foot {
-  text-align: right;
-  color: gray;
+.linq {
+  font-size: 18px;
+  color: white;
 }
